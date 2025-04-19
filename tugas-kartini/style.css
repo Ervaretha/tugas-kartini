@@ -1,0 +1,17 @@
+.navbar{
+    background-color: rgb(185, 106, 64);
+}
+
+.jumbotron{
+    padding-top: 6rem;
+}
+
+section{
+    padding-top: 6rem;
+    padding-bottom: 5rem;
+    text-align: center;
+}
+
+footer{
+    background-color: rgb(185, 106, 64);
+}
